@@ -1,10 +1,10 @@
-# Day 2: Quantum algorithms
+# Day 2: Quantum algorithms 🧮
 
-[Open in Colab](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day2/quantum_school_day2_algorithms.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day2/quantum_school_day2_algorithms.ipynb)
 
 Three algorithms in qrisp.
 
-## Main points
+## 📌 Main points
 
 - Bernstein-Vazirani: find a hidden bit string in one query.
 - QAOA on MaxCut, including qrisp's built-in MaxCut helpers.
@@ -12,4 +12,4 @@ Three algorithms in qrisp.
 
 Notebook: `quantum_school_day2_algorithms.ipynb`
 
-Source: IQM Quantum Summer School.
+Source: [IQM Quantum Summer School](https://schools.iqmacademy.com/).

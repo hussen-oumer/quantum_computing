@@ -1,10 +1,10 @@
-# Day 3: Transpilation and pulses
+# Day 3: Transpilation and pulses 🔧
 
 How code actually runs on hardware: mapping circuits to the chip's qubit layout, then down to the physical pulses and measurements. Three notebooks.
 
 ## 1. Transpilation with a GHZ state
 
-[Open in Colab](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day3/transpilation_ghz_state.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day3/transpilation_ghz_state.ipynb)
 `transpilation_ghz_state.ipynb`
 
 - Connect to a real QPU and look at its qubit layout.
@@ -13,7 +13,7 @@ How code actually runs on hardware: mapping circuits to the chip's qubit layout,
 
 ## 2. From code to pulses, part 2
 
-[Open in Colab](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day3/abstract_code_to_physical_pulses_part2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day3/abstract_code_to_physical_pulses_part2.ipynb)
 `abstract_code_to_physical_pulses_part2.ipynb`
 
 - Connect to the QPU station control.
@@ -21,11 +21,11 @@ How code actually runs on hardware: mapping circuits to the chip's qubit layout,
 
 ## 3. From code to pulses, parts 3 and 4
 
-[Open in Colab](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day3/abstract_code_to_physical_pulses_part3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day3/abstract_code_to_physical_pulses_part3.ipynb)
 `abstract_code_to_physical_pulses_part3.ipynb`
 
 - Measure qubits in different states and look at the readout.
 - Change calibration settings and see what happens.
 - Homework: the dispersive shift, using calibration sweeps.
 
-Source: IQM Quantum Summer School.
+Source: [IQM Quantum Summer School](https://schools.iqmacademy.com/).

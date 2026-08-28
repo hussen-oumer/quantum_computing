@@ -1,10 +1,10 @@
-# Day 1: Circuits and entanglement
+# Day 1: Circuits and entanglement ⚛️
 
-[Open in Colab](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day1/quantum_school_day1_lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day1/quantum_school_day1_lab.ipynb)
 
 First lab. You write quantum circuits in qrisp instead of a visual editor, then run them on real IQM hardware.
 
-## Main points
+## 📌 Main points
 
 - Sign up for [IQM Resonance](https://iqm.tech/sign-up-socials/) and get an API token to run jobs.
 - Try the basic gates: H, X, and Z.
@@ -14,4 +14,4 @@ First lab. You write quantum circuits in qrisp instead of a visual editor, then 
 
 Notebook: `quantum_school_day1_lab.ipynb`
 
-Source: IQM Quantum Summer School.
+Source: [IQM Quantum Summer School](https://schools.iqmacademy.com/).
