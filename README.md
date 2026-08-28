@@ -1,19 +1,25 @@
-# Quantum Computing — IQM Summer Course
+# Quantum Computing (IQM Quantum Summer School)
 
-Notebooks from the **IQM Summer Course**, organized by day. All labs use the [qrisp](https://www.qrisp.eu/) quantum programming framework.
+My notebooks from the [IQM Quantum Summer School](https://schools.iqmacademy.com/), a 3-day online course on quantum computing basics. The labs use the [qrisp](https://www.qrisp.eu/) framework and run circuits on real IQM quantum computers through IQM Resonance.
 
-## Contents
+No prior quantum experience is needed. A bit of Python helps.
 
-### Day 1 — Lab
-- `day1/quantum_school_day1_lab.ipynb` — building quantum circuits from scratch in qrisp.
+## The days
 
-### Day 2 — Quantum Algorithms
-- `day2/quantum_school_day2_algorithms.ipynb` — implementing quantum algorithms that are not possible on a classical computer.
+- **Day 1:** circuits and entanglement. [Open in Colab](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day1/quantum_school_day1_lab.ipynb)
+- **Day 2:** quantum algorithms (Bernstein-Vazirani, QAOA, Grover). [Open in Colab](https://colab.research.google.com/github/hussen-oumer/quantum_computing/blob/main/day2/quantum_school_day2_algorithms.ipynb)
+- **Day 3:** transpilation and pulses. See [day3/](day3/) for its three notebooks.
 
-### Day 3 — Transpilation & Physical Pulses
-- `day3/transpilation_ghz_state.ipynb` — creating a GHZ state with device topology in mind (transpilation).
-- `day3/abstract_code_to_physical_pulses.ipynb` — from abstract code to physical pulses.
-- `day3/abstract_code_to_physical_pulses_part2.ipynb` — from abstract code to physical pulses (continued).
+Each day folder has a short README with the main points and Colab links.
 
-## Attribution
-These files were taken from the **IQM Summer Course**.
+## Running the notebooks
+
+Click any "Open in Colab" link and run the cells top to bottom. No local setup. Some cells run on real hardware and ask for your IQM Resonance API token ([sign up](https://iqm.tech/sign-up-socials/)).
+
+## Certificate
+
+You get a certificate for completing the course. Enroll and finish the 3 days at [schools.iqmacademy.com](https://schools.iqmacademy.com/). New sign-ups also get +100 IQM Resonance credits.
+
+## Source
+
+All material is from the IQM Quantum Summer School.
