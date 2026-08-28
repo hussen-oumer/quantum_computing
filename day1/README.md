@@ -4,6 +4,8 @@
 
 First lab. You write quantum circuits in qrisp instead of a visual editor, then run them on real IQM hardware.
 
+The notebook runs in Google Colab. When you reach the cell that asks for your IQM Resonance API token, that is where the code starts running on the real quantum hardware.
+
 ## 📌 Main points
 
 - Sign up for [IQM Resonance](https://iqm.tech/sign-up-socials/) and get an API token to run jobs.

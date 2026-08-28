@@ -4,11 +4,13 @@
 
 Three algorithms in qrisp.
 
+The notebook runs in Google Colab. When you reach the cell that asks for your IQM Resonance API token, that is where the code starts running on the real quantum hardware.
+
 ## 📌 Main points
 
 - Bernstein-Vazirani: find a hidden bit string in one query.
 - QAOA on MaxCut, including qrisp's built-in MaxCut helpers.
-- Grover's search (homework), from scratch and with the qrisp library.
+- Grover's search, from scratch and with the qrisp library.
 
 Notebook: `quantum_school_day2_algorithms.ipynb`
 

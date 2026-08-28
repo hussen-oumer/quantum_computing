@@ -21,7 +21,7 @@ Each day folder has a short README with the main points and Colab links.
 
 ## 🚀 Running the notebooks
 
-Click any **Open in Colab** badge and run the cells top to bottom. No local setup. Some cells run on real hardware and ask for your IQM Resonance API token ([sign up](https://iqm.tech/sign-up-socials/)).
+Click any **Open in Colab** badge and run the cells top to bottom. No local setup. The notebook runs in Google Colab. When you reach the cell that asks for your IQM Resonance API token ([sign up](https://iqm.tech/sign-up-socials/)), that is where the code starts running on the real quantum hardware.
 
 <!-- My certificate: uncomment and add your link once you receive it
 ## 🎓 My certificate
